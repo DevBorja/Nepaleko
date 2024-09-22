@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "proyect settings"
+        "proyect settings",
+        "ui"
     ]
 }
